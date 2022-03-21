@@ -5,4 +5,4 @@ This project is a team effort in EUREKA ITB 2022 national competition that was h
 Our team:
 - Anaqi Syaddad Ihsan &emsp;&emsp;&emsp;&emsp;&ensp; (Airlangga University)
 - Muhammad Amrul Muhafizh &emsp; (Airlangga University)
-- Zalsabila &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; (Airlangga University)
+- Zalsabila &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; (Airlangga University)
